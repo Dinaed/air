@@ -1,0 +1,20 @@
+.quality {
+    padding: 50px 0;
+    &-title {
+        font-size: 35px;
+        line-height: 41px;
+        color: #FFFFFF;
+        text-align: center;
+        margin-bottom: 42px;
+    }
+    &-map{
+        height: 606px;
+    }    
+    &-text {
+        font-size: 23px;
+        line-height: 27px;
+        color: #FFFFFF;
+        margin: 42px 0 30px;
+    }
+    
+}
