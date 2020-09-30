@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/air/static/css/main.22b5db25.chunk.css",
+    "main.js": "/air/static/js/main.0f306080.chunk.js",
+    "main.js.map": "/air/static/js/main.0f306080.chunk.js.map",
+    "runtime-main.js": "/air/static/js/runtime-main.3c781981.js",
+    "runtime-main.js.map": "/air/static/js/runtime-main.3c781981.js.map",
+    "static/css/2.e0686c58.chunk.css": "/air/static/css/2.e0686c58.chunk.css",
+    "static/js/2.d1c6b76b.chunk.js": "/air/static/js/2.d1c6b76b.chunk.js",
+    "static/js/2.d1c6b76b.chunk.js.map": "/air/static/js/2.d1c6b76b.chunk.js.map",
+    "index.html": "/air/index.html",
+    "precache-manifest.37143ce9eeab9ec0ecf2bdd9bf4c99f7.js": "/air/precache-manifest.37143ce9eeab9ec0ecf2bdd9bf4c99f7.js",
+    "service-worker.js": "/air/service-worker.js",
+    "static/css/2.e0686c58.chunk.css.map": "/air/static/css/2.e0686c58.chunk.css.map",
+    "static/css/main.22b5db25.chunk.css.map": "/air/static/css/main.22b5db25.chunk.css.map",
+    "static/js/2.d1c6b76b.chunk.js.LICENSE.txt": "/air/static/js/2.d1c6b76b.chunk.js.LICENSE.txt",
+    "static/media/GC_logo.svg": "/air/static/media/GC_logo.0662d9de.svg",
+    "static/media/ITN_logo.svg": "/air/static/media/ITN_logo.2f311a05.svg",
+    "static/media/energetics.jpg": "/air/static/media/energetics.4b0bd24b.jpg",
+    "static/media/energy.jpg": "/air/static/media/energy.83d80abb.jpg",
+    "static/media/heroBlock.scss": "/air/static/media/hero-bg.5d86912d.jpg",
+    "static/media/industry.jpg": "/air/static/media/industry.53f2c803.jpg",
+    "static/media/shid_emozhl_logo.svg": "/air/static/media/shid_emozhl_logo.341a487c.svg",
+    "static/media/sity_planing.jpg": "/air/static/media/sity_planing.f2d8eacd.jpg",
+    "static/media/slide-1.jpg": "/air/static/media/slide-1.7e1db0da.jpg",
+    "static/media/slide-2.jpg": "/air/static/media/slide-2.12a25e24.jpg",
+    "static/media/slide-3.jpg": "/air/static/media/slide-3.638ec227.jpg",
+    "static/media/slide-4.jpg": "/air/static/media/slide-4.8a21e8b7.jpg",
+    "static/media/slide-5.jpg": "/air/static/media/slide-5.bb9f49bb.jpg",
+    "static/media/transport.jpg": "/air/static/media/transport.ef851cae.jpg",
+    "static/media/utilisation.jpg": "/air/static/media/utilisation.680938c5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c781981.js",
+    "static/css/2.e0686c58.chunk.css",
+    "static/js/2.d1c6b76b.chunk.js",
+    "static/css/main.22b5db25.chunk.css",
+    "static/js/main.0f306080.chunk.js"
+  ]
+}
